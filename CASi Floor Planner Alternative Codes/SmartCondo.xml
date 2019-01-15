@@ -1,0 +1,63 @@
+<simulatedworld>
+    <precission>10</precission>
+    <horCalibr>
+        <point1>
+            <xcoord>80</xcoord>
+            <ycoord>62</ycoord>
+        </point1>
+        <point2>
+            <xcoord>130</xcoord>
+            <ycoord>62</ycoord>
+        </point2>
+        <distance>5.0</distance>
+        <scale>0.2</scale>
+    </horCalibr>
+    
+    <activityDefinitions>
+    
+    </activityDefinitions>
+        
+    <activityInstances>
+
+	</activityInstances>
+    
+    <actions>
+	
+	
+	</actions>
+    
+    <agents>
+        <agent>
+            <agentid>8713</agentid>
+            <agentname>Shadan</agentname>
+            <agentrole>Student</agentrole>
+            <point>
+                <xcoord>205</xcoord>
+                <ycoord>794</ycoord>
+            </point>
+        </agent>
+    </agents>
+    <rooms>
+
+    <room><roomid>room1</roomid><wall><point><xcoord>0</xcoord><ycoord>0</ycoord></point><point><xcoord>670</xcoord><ycoord>0</ycoord></point></wall><wall><point><xcoord>670</xcoord><ycoord>0</ycoord></point><point><xcoord>670</xcoord><ycoord>548</ycoord></point></wall><wall><point><xcoord>670</xcoord><ycoord>548</ycoord></point><point><xcoord>0</xcoord><ycoord>548</ycoord></point></wall><wall><point><xcoord>0</xcoord><ycoord>548</ycoord></point><point><xcoord>0</xcoord><ycoord>0</ycoord></point></wall></room></rooms>
+    <obstacles>
+
+    </obstacles>
+    <locations>
+        
+	
+	</locations>
+	
+    <sensors>
+        
+    <sensor><id>sensor1</id><point><xcoord>91</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor2</id><point><xcoord>91</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor3</id><point><xcoord>91</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor4</id><point><xcoord>91</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor5</id><point><xcoord>91</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor6</id><point><xcoord>91</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor7</id><point><xcoord>182</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor8</id><point><xcoord>182</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor9</id><point><xcoord>182</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor10</id><point><xcoord>182</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor11</id><point><xcoord>182</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor12</id><point><xcoord>182</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor13</id><point><xcoord>274</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor14</id><point><xcoord>274</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor15</id><point><xcoord>274</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor16</id><point><xcoord>274</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor17</id><point><xcoord>274</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor18</id><point><xcoord>274</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor19</id><point><xcoord>365</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor20</id><point><xcoord>365</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor21</id><point><xcoord>365</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor22</id><point><xcoord>365</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor23</id><point><xcoord>365</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor24</id><point><xcoord>365</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor25</id><point><xcoord>457</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor26</id><point><xcoord>457</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor27</id><point><xcoord>457</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor28</id><point><xcoord>457</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor29</id><point><xcoord>457</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor30</id><point><xcoord>457</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor31</id><point><xcoord>548</xcoord><ycoord>30</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor32</id><point><xcoord>548</xcoord><ycoord>121</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor33</id><point><xcoord>548</xcoord><ycoord>213</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor34</id><point><xcoord>548</xcoord><ycoord>304</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor35</id><point><xcoord>548</xcoord><ycoord>396</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor><sensor><id>sensor36</id><point><xcoord>548</xcoord><ycoord>487</ycoord></point><type>MotionSensorBinary</type><color /><radius>40</radius></sensor></sensors>
+    <mqtt_broker>
+        <ip_address>192.168.234.130</ip_address>
+        <port>1883</port>
+        <protocol>tcp</protocol>
+    </mqtt_broker>
+    <sim_start_time>
+        <simStartDate>2018-11-05</simStartDate>
+        <simStartTime>15:20:00</simStartTime>
+    </sim_start_time>
+</simulatedworld>
