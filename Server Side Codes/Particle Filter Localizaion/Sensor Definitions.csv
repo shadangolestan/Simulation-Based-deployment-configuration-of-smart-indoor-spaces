@@ -1,0 +1,9 @@
+pressure sensor, bed,1,2
+water flow sensor, kitchen faucet,2,3
+water flow sensor, washroom sink,3,4
+water flow sensor, bath tub faucet,4,5
+voltage sensor, TV,5,6
+pressure sensor, chair,6,7
+accelerometer, agent's arm,1,8
+accelerometer, frying pan,2,9
+pressure sensor, dining room chair,3,1
