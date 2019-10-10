@@ -97,8 +97,7 @@
             <point><xcoord>455</xcoord><ycoord>405</ycoord></point>
             <type>MotionSensorBinary</type>
             <color />
-            <radius>130</radius>
-            <room>bedroom</room>
+            <radius>60</radius>
         </sensor>
         
         <sensor>
@@ -106,8 +105,7 @@
             <point><xcoord>479</xcoord><ycoord>284</ycoord></point>
             <type>MotionSensorBinary</type>
             <color />
-            <radius>150</radius>
-            <room>bedroom</room>
+            <radius>80</radius>
         </sensor>
         
         <sensor>
@@ -115,97 +113,26 @@
             <point><xcoord>509</xcoord><ycoord>101</ycoord></point>
             <type>MotionSensorBinary</type>
             <color />
-            <radius>200</radius>
-            <room>bedroom</room>
+            <radius>150</radius>
         </sensor>
 
         <sensor><id>sensor4</id>
             <point><xcoord>183</xcoord><ycoord>389</ycoord></point>
             <type>MotionSensorBinary</type>
             <color />
-            <radius>110</radius>
-            <room>livingroom</room>
+            <radius>144</radius>
         </sensor>
 
-        <sensor><id>sensor5</id>
-            <point><xcoord>271</xcoord><ycoord>225</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>livingroom</room>
-        </sensor>
-        
-        <sensor><id>sensor6</id>
-            <point><xcoord>91</xcoord><ycoord>225</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>livingroom</room>
-        </sensor>
-        
-        <sensor><id>sensor7</id>
-            <point><xcoord>466</xcoord><ycoord>894</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>200</radius>
-            <room>kitchen</room>
-        </sensor>
-        
-        <sensor><id>sensor8</id>
-            <point><xcoord>300</xcoord><ycoord>626</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>diningroom</room>
-        </sensor>
-        
-        <sensor><id>sensor9</id>
-            <point><xcoord>122</xcoord><ycoord>861</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>kitchen</room>
-        </sensor>
-        
-        <sensor><id>sensor10</id>
-            <point><xcoord>244</xcoord><ycoord>1003</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>kitchen</room>
-        </sensor>
-        
-        <sensor><id>sensor11</id>
-            <point><xcoord>215</xcoord><ycoord>711</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>diningroom</room>
-        </sensor>
-        
-        <sensor><id>sensor12</id>
-            <point><xcoord>183</xcoord><ycoord>577</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>diningroom</room>
-        </sensor>
-        
-        <sensor><id>sensor13</id>
-            <point><xcoord>574</xcoord><ycoord>527</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>bathroom</room>
-        </sensor>
-        
-        <sensor><id>sensor14</id>
-            <point><xcoord>574</xcoord><ycoord>688</ycoord></point>
-            <type>MotionSensorBinary</type>
-            <color />
-            <radius>100</radius>
-            <room>bathroom</room>
-        </sensor>
+        <sensor><id>sensor5</id><point><xcoord>271</xcoord><ycoord>225</ycoord></point><type>MotionSensorBinary</type><color /><radius>90</radius></sensor>
+        <sensor><id>sensor6</id><point><xcoord>91</xcoord><ycoord>225</ycoord></point><type>MotionSensorBinary</type><color /><radius>60</radius></sensor>
+        <sensor><id>sensor7</id><point><xcoord>466</xcoord><ycoord>894</ycoord></point><type>MotionSensorBinary</type><color /><radius>85</radius></sensor>
+        <sensor><id>sensor8</id><point><xcoord>426</xcoord><ycoord>626</ycoord></point><type>MotionSensorBinary</type><color /><radius>90</radius></sensor>
+        <sensor><id>sensor9</id><point><xcoord>122</xcoord><ycoord>861</ycoord></point><type>MotionSensorBinary</type><color /><radius>30</radius></sensor>
+        <sensor><id>sensor10</id><point><xcoord>244</xcoord><ycoord>1003</ycoord></point><type>MotionSensorBinary</type><color /><radius>45</radius></sensor>
+        <sensor><id>sensor11</id><point><xcoord>215</xcoord><ycoord>711</ycoord></point><type>MotionSensorBinary</type><color /><radius>60</radius></sensor>
+        <sensor><id>sensor12</id><point><xcoord>183</xcoord><ycoord>577</ycoord></point><type>MotionSensorBinary</type><color /><radius>60</radius></sensor>
+        <sensor><id>sensor13</id><point><xcoord>574</xcoord><ycoord>527</ycoord></point><type>MotionSensorBinary</type><color /><radius>60</radius></sensor>
+        <sensor><id>sensor14</id><point><xcoord>574</xcoord><ycoord>688</ycoord></point><type>MotionSensorBinary</type><color /><radius>120</radius></sensor>
     </sensors>
     
     <mqtt_broker>
