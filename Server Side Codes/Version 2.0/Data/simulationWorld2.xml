@@ -74,16 +74,6 @@
 	
     <sensors>    
         <sensor>
-            <id>sensorBC1</id>
-            <point><xcoord>479</xcoord><ycoord>405</ycoord></point>
-            <type>BeaconSensor</type>
-            <color />
-            <radius>0.5</radius>
-            <accelerometer>0</accelerometer>
-            <object>chair</object>
-        </sensor> 
-
-        <sensor>
             <id>sensorPS1</id>
             <point><xcoord>479</xcoord><ycoord>405</ycoord></point>
             <type>PressureSensorAnalog</type>
@@ -206,6 +196,285 @@
             <radius>100</radius>
             <room>bathroom</room>
         </sensor>
+        
+        
+        <sensor><id>n1-bed</id>
+            <point><xcoord>80</xcoord><ycoord>540</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dining chair</object>
+        </sensor>
+        
+        <sensor><id>n1-dog</id>
+            <point><xcoord>260</xcoord><ycoord>460</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dining chair</object>
+        </sensor>
+        
+        
+        <sensor><id>n1-chair</id>
+            <point><xcoord>80</xcoord><ycoord>460</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dining chair</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-fridge</id>
+            <point><xcoord>565</xcoord><ycoord>780</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>closet door</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-bed</id>
+            <point><xcoord>350</xcoord><ycoord>735</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen island right side</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-bag</id>
+            <point><xcoord>495</xcoord><ycoord>590</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bathroom door</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-bike</id>
+            <point><xcoord>575</xcoord><ycoord>890</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dryer</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-shoe</id>
+            <point><xcoord>200</xcoord><ycoord>735</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen island left side</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-dog</id>
+            <point><xcoord>655</xcoord><ycoord>470</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bathroom sink</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-generic</id>
+            <point><xcoord>185</xcoord><ycoord>1000</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen cabinet</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-chair</id>
+            <point><xcoord>655</xcoord><ycoord>650</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bathroom toilet</object>
+        </sensor>
+        
+        
+        <sensor><id>n2-car</id>
+            <point><xcoord>575</xcoord><ycoord>840</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>washer</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-generic</id>
+            <point><xcoord>525</xcoord><ycoord>1055</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>main door</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-bag</id>
+            <point><xcoord>5</xcoord><ycoord>840</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen ironing station</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-fridge</id>
+            <point><xcoord>70</xcoord><ycoord>660</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>fridge</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-dog</id>
+            <point><xcoord>255</xcoord><ycoord>1000</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen cabinet</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-bed</id>
+            <point><xcoord>260</xcoord><ycoord>540</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dining chair</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-chair</id>
+            <point><xcoord>255</xcoord><ycoord>1000</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen cabinet</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-bike</id>
+            <point><xcoord>185</xcoord><ycoord>1000</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen cabinet</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-door</id>
+            <point><xcoord>150</xcoord><ycoord>500</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>dining table</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-car</id>
+            <point><xcoord>185</xcoord><ycoord>1000</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen cabinet</object>
+        </sensor>
+        
+        
+        <sensor><id>n3-shoe</id>
+            <point><xcoord>5</xcoord><ycoord>940</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>kitchen sink</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-generic</id>
+            <point><xcoord>5</xcoord><ycoord>340</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>couch left hand</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-bag</id>
+            <point><xcoord>375</xcoord><ycoord>235</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bedroom wall in front of bed</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-fridge</id>
+            <point><xcoord>600</xcoord><ycoord>350</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bedroom drawer beside bed</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-dog</id>
+            <point><xcoord>345</xcoord><ycoord>420</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>living room armchair</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-chair</id>
+            <point><xcoord>5</xcoord><ycoord>160</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>couch right hand</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-bike</id>
+            <point><xcoord>290</xcoord><ycoord>170</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>living room table</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-door</id>
+            <point><xcoord>470</xcoord><ycoord>465</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>bedroom door</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-car</id>
+            <point><xcoord>75</xcoord><ycoord>75</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>corner living room</object>
+        </sensor>
+        
+        
+        <sensor><id>n4-shoe</id>
+            <point><xcoord>470</xcoord><ycoord>5</ycoord></point>
+            <type>BeaconSensor</type>
+            <color />
+            <radius>100</radius>
+            <object>chair bedroom</object>
+        </sensor>
+        
     </sensors>
     
     <mqtt_broker>
